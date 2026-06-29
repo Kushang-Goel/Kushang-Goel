@@ -31,8 +31,11 @@ Data and Business Analyst skilled in Python, SQL, Excel, Power BI, and Tableau. 
 🚀 My Expertise
 
 - 📊 Data & Business Analytics: Transforming complex datasets into actionable business insights and dashboards using Python, MySQL, Microsoft Excel & Power BI/Tableau.
+
 - 💻 Software Testing: Designing and executing test cases, performing manual, functional, UI, system, and usability testing to verify software quality.
+
 - 🤖 Artificial Intelligence & Machine Learning: Implementing NLP models, predictive algorithms, and machine learning pipelines to solve complex real-world problems.
+
 - ⚡ Computer Science & Information Technology: Strong understanding of fundamental computer science principles, software systems, and modern information technology concepts.
 
 ---
