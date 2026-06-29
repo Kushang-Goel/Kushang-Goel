@@ -115,10 +115,10 @@ Data and Business Analyst skilled in Python, SQL, Excel, Power BI, and Tableau. 
 
 🔹 Industry Workshops & Hackathons
 
-- Data Analytics Hackathon – CodTech IT Solutions
-- Power BI Hackathon – Snestron Systems
-- AI Tools & ChatGPT Workshop – be10x
-- Digital Marketing Bootcamp – YHills
+- Data Analytics Hackathon | CodTech IT Solutions
+- Power BI Hackathon | Snestron Systems
+- AI Tools & ChatGPT Workshop | be10x
+- Digital Marketing Bootcamp | YHills
 
 ---
 
