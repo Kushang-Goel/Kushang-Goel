@@ -108,7 +108,9 @@ Data and Business Analyst skilled in Python, SQL, Excel, Power BI, and Tableau. 
 - Data Science Professional | Beep Learning
 - Business Analyst Assessment | LearnTube.ai
 - Crowd Testing Project | TestYantra
-- Summer Training Internship | Sirifort Insti tute of Management Studies (GGSIPU)
+- The Complete Python Developer | Udemy
+- Summer Training Internship | Sirifort Institute of Management Studies (GGSIPU)
+- The Complete Full-Stack Web Development Bootcamp | Udemy
 - Certificate of Merit | Sirifort Institute of Management Studies (GGSIPU)
 
 ---
