@@ -67,7 +67,7 @@ Data and Business Analyst skilled in Python, SQL, Excel, Power BI, and Tableau. 
 - Developed an NLP-based sentiment analysis model using Python to preprocess text, classify customer sentiment, and extract actionable insights from reviews.
 
 
-🛒 E-Commerce Platform
+🛒 E-commerce Platform
 
 - Contributed to a team-based e-commerce web application by designing login and registration pages, performing manual testing, managed project databases and test data.
 
